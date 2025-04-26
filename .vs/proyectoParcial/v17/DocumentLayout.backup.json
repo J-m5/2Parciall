@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\maria\\desktop\\parcial22\\proyectoparcialm\\proyectoparcial (4)\\proyectoparcial (3)\\proyectoparcial (2)\\proyectoparcial\\proyectoparcial\\proyectoparcial\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\maria\\desktop\\parcial22\\proyectoparcialm\\proyectoparcial (4)\\proyectoparcial (3)\\proyectoparcial (2)\\proyectoparcial\\proyectoparcial\\proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\maria\\desktop\\parcial22\\proyectoparcialm\\proyectoparcial (4)\\proyectoparcial (3)\\proyectoparcial (2)\\proyectoparcial\\proyectoparcial\\proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\maria\\desktop\\parcial22\\proyectoparcialm\\proyectoparcial (4)\\proyectoparcial (3)\\proyectoparcial (2)\\proyectoparcial\\proyectoparcial\\proyectoparcial\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Inventario.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Inventario.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Inventario.cs",
+              "RelativeToolTip": "proyectoParcial\\Inventario.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAF4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:27:42.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2Jugadores.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form2Jugadores.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs",
+              "RelativeToolTip": "proyectoParcial\\Form2Jugadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:58:15.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form1.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form1.cs",
+              "RelativeToolTip": "proyectoParcial\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:05:25.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Inventario.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Inventario.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Inventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoParcial\\Inventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:48:09.831Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form1.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoParcial\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:20:02.105Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2Jugadores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\Parcial22\\proyectoParcialM\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form2Jugadores.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\proyectoParcial (5)\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\proyectoParcial (5)\\proyectoParcial (4)\\proyectoParcial (3)\\proyectoParcial (2)\\proyectoParcial\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:54:13.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
